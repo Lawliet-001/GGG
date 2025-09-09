@@ -24,10 +24,12 @@
     setTimeout(()=>{
         la.style.visibility ="visible"
     },1000)
-    })
+
      setTimeout(()=>{
         le.style.visibility ="visible"
     },5000)
      setTimeout(()=>{
         ab.style.visibility ="visible"
     },7000)
+    })
+    
