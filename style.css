@@ -1,0 +1,27 @@
+#timer{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin:20px;
+    font-size: 7rem;
+}
+img{
+    width: 300px;
+     height: 300px;
+     margin:50px;
+}
+.center{
+    margin:auto;
+}
+body{
+    background-color: black;
+}
+.red{
+    color:rgb(223, 34, 34);
+    font-size: 4rem;
+}
+.arabtxt{
+    visibility: hidden;
+    z-index: 666;
+    position:fixed;
+
+}
